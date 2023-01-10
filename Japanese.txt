@@ -10,53 +10,53 @@
     Open_Cheats_Button=チート
     Help=ヘルプ
 
-    Build_Rocket=Build Rocket
-    Resume_Game=Resume Game
-    Return_To_Main_Menu=Main Menu
-    Exit_To_Main_Menu=Exit To Main Menu
+    Build_Rocket=ロケットを作る
+    Resume_Game=ゲームを再開
+    Return_To_Main_Menu=メインメニューに戻る
+    Exit_To_Main_Menu=メインメニューに戻る
 
 [Main Menu]
-    Play=Play
+    Play=プレイ
 
 # Tutorial
-    Video_Tutorials_OpenButton=Video Tutorials
-    Video_Orbit=Orbit Tutorial
-    Video_Moon=Moon Tutorial
-    Video_Dock=Docking Tutorial
+    Video_Tutorials_OpenButton=チュートリアル動画
+    Video_Orbit=軌道チュートリアル
+    Video_Moon=月面着陸チュートリアル
+    Video_Dock=ドッキングチュートリアル
 
 # Community
-    Community_OpenButton=Community
-    Community_Youtube=Youtube
-    Community_Discord=Discord
-    Community_Reddit=Reddit
-    Community_Forums=Forums
+    Community_OpenButton=コミュニティ
+    Community_Youtube=ユーチューブ
+    Community_Discord=ディスコード
+    Community_Reddit=レディット
+    Community_Forums=フォーラム
 
 # Credits
-    Credits_OpenButton=Credits
+    Credits_OpenButton=クレジット
 
     Credits_Text=Štefo Mai Morojna
-    Credits_Text=<Size=55> Designer - Programmer - Artist </size>
+    Credits_Text=<Size=55> デザイナー - プログラマー -  </size>
     Credits_Text=
     Credits_Text=Jordi van der Molen
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Chris Christo
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Josh
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Aidan
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Andrey Onischenko
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Davi Vasc
-    Credits_Text=<Size=55> Composer </size>
+    Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Ashton Mills
-    Credits_Text=<size=55> Composer </size>
+    Credits_Text=<size=55> プログラマー </size>
 
 # Update menu
     Update_Available=A new update is available!

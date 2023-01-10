@@ -35,7 +35,7 @@
     Credits_OpenButton=クレジット
 
     Credits_Text=Štefo Mai Morojna
-    Credits_Text=<Size=55> デザイナー - プログラマー -  </size>
+    Credits_Text=<Size=55> デザイナー ・ プログラマー ・ アーティスト </size>
     Credits_Text=
     Credits_Text=Jordi van der Molen
     Credits_Text=<Size=55> プログラマー </size>

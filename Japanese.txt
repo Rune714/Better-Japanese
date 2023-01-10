@@ -32,7 +32,7 @@
     Community_Forums=フォーラム
 
 # Credits
-    Credits_OpenButton=クレジット JUst
+    Credits_OpenButton=クレジット
 
     Credits_Text=Štefo Mai Morojna
     Credits_Text=<Size=55> デザイナー - プログラマー -  </size>

@@ -26,9 +26,9 @@
 
 # Community
     Community_OpenButton=コミュニティ
-    Community_Youtube=ユーチューブ
-    Community_Discord=ディスコード
-    Community_Reddit=レディット
+    Community_Youtube=Youtube
+    Community_Discord=Discord
+    Community_Reddit=Reddit
     Community_Forums=フォーラム
 
 # Credits

@@ -25,9 +25,15 @@ SFSの翻訳は全て日本語に翻訳されいるわけではありません
 
 1. Githubからファイルをダウンロードしましょう
 2. ファイルマネージャーでダウンロードしたファイルを
-+  `Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Translate`に保存します
+`Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Translate`に保存します
 3. Spaceflight Simulatorを起動しましょう
 4. 設定から[言語]を選択し、[Japanese (Custom)]を選択
 5. ゲームを再起動して適応できていたらOK
 
-**※PC版は非対応です**
+**既知の問題**
+---
+いくつかの問題と修正不能な不具合の報告です
+
+|問題の箇所|問題の内容|解決方法|
+| :---    | :---:   | :---: |
+| PC Version |言語テキストが存在しない|無し|

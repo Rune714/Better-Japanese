@@ -22,9 +22,9 @@ SFSの翻訳は全て日本語に翻訳されいるわけではありません
 + 翻訳テキストファイル
 
 **導入手順**
-Githubからファイルをダウンロードしましょう.
-ファイルマネージャーでダウンロードしたファイルを.
-`Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Translate`
-に保存します
 
-※PC版は非対応です
+1. Githubからファイルをダウンロードしましょう.
+2. ファイルマネージャーでダウンロードしたファイルを.
+3. `Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Translate`に保存します
+
+**※PC版は非対応です**

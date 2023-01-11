@@ -59,14 +59,14 @@
     Credits_Text=<size=55> プログラマー </size>
 
 # Update menu
-    Update_Available=A new update is available!
+    Update_Available=新しいアップデートが利用可能です！
     Update_Available=
-    Update_Available=Current version: %old%
-    Update_Available=Latest version: %new%
+    Update_Available=現在のバージョン: %old%
+    Update_Available=最新のバージョン: %new%
 
-    Update_Confirm=Update
-    Update_Overview_Video_Available=Check out what's new this update?
-    Update_Overview_Video_Confirm=Open
+    Update_Confirm=アップデート
+    Update_Overview_Video_Available=このアップデートの新機能を確認しますか？
+    Update_Overview_Video_Confirm=開く
 
 # Rate menu
     Rate_Title=Would you like to rate or review the game?
@@ -78,12 +78,12 @@
     Rate_Confirm=Rate
 
 # Close menu
-    Exit_Button=Exit
-    Close_Game=Close game?
+    Exit_Button=戻る
+    Close_Game=ゲームを終了しますか？
 
 [Worlds Menu]
-    Create_New_World_Button=Create New World
-    World_Delete=Delete world?
+    Create_New_World_Button=ワールドを作成する
+    World_Delete=ワールドを削除しますか？
 
 # Create menu
     Create_World_Title=World Name

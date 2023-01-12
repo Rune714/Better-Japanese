@@ -99,19 +99,19 @@
     Custom_Solar_System=%name% (カスタム)
 
 # World info
-    Last_Played=Last played: %value% ago
-    Just_Played=Last played: A moment ago
+    Last_Played=最終プレイ: %value% 前
+    Just_Played=最終プレイ: 少し前
     Time_Played=Playtime: %value%
 
-    World_Difficulty_Name=Difficulty: %value%
-    Difficulty_Normal=Normal
-    Difficulty_Hard=Hard
-    Difficulty_Realistic=Realistic
+    World_Difficulty_Name=難易度: %value%
+    Difficulty_Normal=ノーマル
+    Difficulty_Hard=ハード
+    Difficulty_Realistic=リアリスティック
 
     World_Mode_Name=Mode: %value%
-    Mode_Classic=Classic
-    Mode_Career=Career
-    Mode_Sandbox=Sandbox
+    Mode_Classic=クラシック
+    Mode_Career=キャリア
+    Mode_Sandbox=サンドボックス
 
 [World Create Menu]
     World_Create_Title=Create World

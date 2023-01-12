@@ -86,7 +86,7 @@
     World_Delete=ワールドを削除しますか？
 
 # Create menu
-    Create_World_Title=ワールド名を
+    Create_World_Title=ワールド名
     Default_World_Name=マイワールド
     Select_Solar_System=太陽系を選択
 

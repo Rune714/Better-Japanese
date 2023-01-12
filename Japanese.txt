@@ -114,11 +114,11 @@
     Mode_Sandbox=サンドボックス
 
 [World Create Menu]
-    World_Create_Title=Create World
-    World_Name_Label=World Name:
-    Solar_System_Label=Solar System:
+    World_Create_Title=ワールドの作成
+    World_Name_Label=ワールド名:
+    Solar_System_Label=:
     Mode_Label=Mode:
-    Difficulty_Label=Difficulty:
+    Difficulty_Label=難易度:
 
     Difficulty_Scale_Stat=Scale: 1:%scale%
     Difficulty_Isp_Stat=Specific Impulse: %value%x

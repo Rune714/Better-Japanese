@@ -86,17 +86,17 @@
     World_Delete=ワールドを削除しますか？
 
 # Create menu
-    Create_World_Title=World Name
-    Default_World_Name=My World
-    Select_Solar_System=Select world's solar system
+    Create_World_Title=ワールド名を
+    Default_World_Name=マイワールド
+    Select_Solar_System=太陽系を選択
 
-    Select_Solar_System__NotFound=Solar system could not be found:
+    Select_Solar_System__NotFound=太陽系が見つかりませんでした:
     Select_Solar_System__NotFound=%system%
     Select_Solar_System__NotFound=
-    Select_Solar_System__NotFound=Select a new solar system
+    Select_Solar_System__NotFound=新しい太陽系を選択してください
 
-    Default_Solar_System=Solar System (Default)
-    Custom_Solar_System=%name% (Custom)
+    Default_Solar_System=太陽系 (デフォルト)
+    Custom_Solar_System=%name% (カスタム)
 
 # World info
     Last_Played=Last played: %value% ago

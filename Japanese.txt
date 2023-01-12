@@ -116,7 +116,7 @@
 [World Create Menu]
     World_Create_Title=ワールドの作成
     World_Name_Label=ワールド名:
-    Solar_System_Label=:
+    Solar_System_Label=太陽系:
     Mode_Label=Mode:
     Difficulty_Label=難易度:
 

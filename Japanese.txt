@@ -169,18 +169,18 @@
     Load_Failed=%filetype{1}%から%filepath%をロードできませんでした
 
 [Purchasing]
-    Open_Shop_Menu=Expansions
-    Parts_Expansion=Parts Expansion
-    Redstone_Atlas_Pack=Redstone Atlas Pack
-    Skins_Expansion=Skins Expansion
-    Planets_Expansion=Planets Expansion
-    Cheats_Expansion=Cheats
-    Infinite_Area_Expansion=Infinite Build Area
-    Builder_Bundle=Builder Bundle
-    Sandbox_Bundle=Sandbox Bundle
-    Full_Bundle=Full Bundle
-    Upgrade_To_Full_Bundle=Upgrade To Full Bundle
-    Mac_Full_Version=Full Version
+    Open_Shop_Menu=拡張パック
+    Parts_Expansion=パーツの拡張
+    Redstone_Atlas_Pack=レッドストーンアトラス
+    Skins_Expansion=スキンの拡張
+    Planets_Expansion=惑星の拡張
+    Cheats_Expansion=チートの拡張
+    Infinite_Area_Expansion=無限のビルドエリア
+    Builder_Bundle=ビルダーバンドル
+    Sandbox_Bundle=サンドボックスバンドル
+    Full_Bundle=フルバンドル
+    Upgrade_To_Full_Bundle=フルバンドルにアップグレード
+    Mac_Full_Version=フルバージョン
 
     Not_All_Parts_Are_Owned=Not all parts are owned
     Not_All_Parts_Are_Owned=Disabled not owned parts

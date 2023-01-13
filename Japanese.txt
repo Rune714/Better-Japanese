@@ -131,7 +131,7 @@
     Unnamed_Blueprint=無名の設計図
     Save_Blueprint=設計図を保存
     Load_Blueprint=設計図をロード
-    Cannot_Save_Empty_Build=空の設計図は保存できません
+    Cannot_Save_Empty_Build=空白の設計図は保存できません
 
 # Quicksave stuff
     Quicksaves_Menu_Title=クイックセーブ
@@ -148,25 +148,25 @@
     Delete_File_With_Type=削除 %filename% %filetype{1}%
 
 # In progress
-    Saving_In_Progress=Saving...
-    Loading_In_Progress=Loading...
-    Importing_In_Progress=Importing...
+    Saving_In_Progress=保存中...
+    Loading_In_Progress=読み込み中...
+    Importing_In_Progress=インポート中...
 
 # filetype (injected)
-    Blueprint{0}=Blueprint
-    Blueprint{1}=blueprint
-    Blueprint{2}=blueprints
-    Quicksave{0}=Quicksave
-    Quicksave{1}=quicksave
-    Quicksave{2}=quicksaves
+    Blueprint{0}=設計図
+    Blueprint{1}=設計図
+    Blueprint{2}=設計図
+    Quicksave{0}=クイックセーブ
+    Quicksave{1}=クイックセーブ
+    Quicksave{2}=クイックセーブ
 
 # Ask overwrite menu
-    File_Already_Exists=A %filetype{1}% with this name already exists
-    Overwrite_File=Overwrite %filetype{1}%
-    New_File=New %filetype{1}%
+    File_Already_Exists=この名前の%filetype{1}%は既に存在します
+    Overwrite_File=%filetype{1}%を上書き
+    New_File=新しい%filetype{1}%
 
 # Load failure
-    Load_Failed=Could not load %filetype{1}% from %filepath%
+    Load_Failed=%filetype{1}%から%filepath%をロードできませんでした
 
 [Purchasing]
     Open_Shop_Menu=Expansions

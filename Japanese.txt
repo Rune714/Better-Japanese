@@ -127,25 +127,25 @@
 
 [Saving]
 # Blueprint stuff
-    Blueprints_Menu_Title=Blueprints
-    Unnamed_Blueprint=Unnamed Blueprint
-    Save_Blueprint=Save Blueprint
-    Load_Blueprint=Load Blueprint
-    Cannot_Save_Empty_Build=Cannot save an empty blueprint
+    Blueprints_Menu_Title=設計図
+    Unnamed_Blueprint=無名の設計図
+    Save_Blueprint=設計図を保存
+    Load_Blueprint=設計図をロード
+    Cannot_Save_Empty_Build=空の設計図は保存できません
 
 # Quicksave stuff
-    Quicksaves_Menu_Title=Quicksaves
-    Unnamed_Quicksave=Unnamed Quicksave
-    Create_Quicksave=Create Quicksave
-    Load_Quicksave=Load Quicksave
+    Quicksaves_Menu_Title=クイックセーブ
+    Unnamed_Quicksave=無名のクイックセーブ
+    Create_Quicksave=クイックセーブを作成
+    Load_Quicksave=クイックセーブをロード
 
 # Save and load menus
-    Save=Save
-    Load=Load
-    Import=Import
-    Delete=Delete
-    Rename=Rename
-    Delete_File_With_Type=Delete %filename% %filetype{1}%
+    Save=セーブ
+    Load=ロード
+    Import=インポート
+    Delete=削除
+    Rename=名前の変更
+    Delete_File_With_Type=削除 %filename% %filetype{1}%
 
 # In progress
     Saving_In_Progress=Saving...

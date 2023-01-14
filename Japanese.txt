@@ -265,15 +265,15 @@
     Anti_Aliasing=アンチエイリアシング
 
 [Cheats]
-    Infinite_Build_Area_Name=Infinite Build Area
-    Part_Clipping_Name=Part Clipping
-    Infinite_Fuel_Name=Infinite Fuel
-    Infinite_Oxygen_Name=Infinite Oxygen
-    No_Atmospheric_Drag_Name=No Atmospheric Drag
-    No_Collision_Damage_Name=No Collision Damage
-    No_Gravity_Name=No Gravity
-    No_Heat_Damage_Name=No Heat Damage
-    No_Burn_Marks_Name=No Burn Marks
+    Infinite_Build_Area_Name=無限のビルドエリア
+    Part_Clipping_Name=パーツのクリッピング
+    Infinite_Fuel_Name=無限の燃料
+    Infinite_Oxygen_Name=無限の酸素
+    No_Atmospheric_Drag_Name=大気抵抗の無効化
+    No_Collision_Damage_Name=衝突ダメージの無効化
+    No_Gravity_Name=無重力
+    No_Heat_Damage_Name=熱ダメージの無効化
+    No_Burn_Marks_Name=焼け跡の無効化
 
 [Tutorials]
 

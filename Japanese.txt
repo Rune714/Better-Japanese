@@ -206,7 +206,7 @@
     Purchase_Thanks_Msg=Purchased: %product%
     Purchase_Thanks_Msg=
     Purchase_Thanks_Msg=ご購入ありがとうございます
-    Purchase_Thanks_Msg=さぁ、星々を
+    Purchase_Thanks_Msg=さぁ、星々を探検しましょう！
 
     Owned=%product%（所有）
 

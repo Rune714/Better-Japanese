@@ -170,7 +170,7 @@
 
 [Purchasing]
     Open_Shop_Menu=拡張パック
-    Parts_Expansion=パーツの拡張
+    Parts_Expansion=部品の拡張
     Redstone_Atlas_Pack=レッドストーンアトラス
     Skins_Expansion=スキンの拡張
     Planets_Expansion=惑星の拡張
@@ -182,35 +182,35 @@
     Upgrade_To_Full_Bundle=フルバンドルにアップグレード
     Mac_Full_Version=フルバージョン
 
-    Not_All_Parts_Are_Owned=Not all parts are owned
-    Not_All_Parts_Are_Owned=Disabled not owned parts
+    Not_All_Parts_Are_Owned=この設計図を構築するために必要なパーツがありません
+    Not_All_Parts_Are_Owned=未所有のパーツは無効化されます
     Not_All_Parts_Are_Owned=
-    Not_All_Parts_Are_Owned=View parts expansion?
+    Not_All_Parts_Are_Owned=拡張パックを表示しますか？
 
-    View_Part_Expansion=View Expansion
+    View_Part_Expansion=拡張パックを表示
 
-    More_Parts=More Parts...
-    More_Skins=More Skins...
-    Cannot_Use_Cheats_In_Career=Cheats can only be used in a sandbox mode world
-    Get_Infinite_Build_Area_Button=Get Infinite Build Area
-    Get_Cheats_Expansion_Button=Get Cheats Expansion
+    More_Parts=より多くのパーツ...
+    More_Skins=より多くのスキン...
+    Cannot_Use_Cheats_In_Career=チートはサンドボックスモードの世界でのみ使用可能です
+    Get_Infinite_Build_Area_Button=無限のビルドエリアを購入
+    Get_Cheats_Expansion_Button=チートの拡張を購入
 
-    Buy_Product=Buy %product% %price%
+    Buy_Product=%product% %price%を購入
 
     Timed_Sale_Text=%product_name% -%sale_percent%
     Timed_Sale_Text=%time_left%
 
-    Time_Upgrade_Text=Upgrade to %product_name% -%sale_percent%
+    Time_Upgrade_Text=%product_name% -%sale_percent%にアップグレード
     Time_Upgrade_Text=%time_left%
 
     Purchase_Thanks_Msg=Purchased: %product%
     Purchase_Thanks_Msg=
-    Purchase_Thanks_Msg=Thanks for your purchase
-    Purchase_Thanks_Msg=Now go and explore the stars!
+    Purchase_Thanks_Msg=ご購入ありがとうございます
+    Purchase_Thanks_Msg=さぁ、星々を
 
-    Owned=%product% (Owned)
+    Owned=%product% （所有）
 
-    Restore_Open=Restore
+    Restore_Open=購入を復元
 
 # Parts Expansion
     PartsExpansion_Tanks=Large variety of fuel tanks!

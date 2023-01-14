@@ -131,7 +131,7 @@
     Unnamed_Blueprint=無名の設計図
     Save_Blueprint=設計図を保存
     Load_Blueprint=設計図をロード
-    Cannot_Save_Empty_Build=空白の設計図は保存できません
+    Cannot_Save_Empty_Build=空の設計図は保存できません
 
 # Quicksave stuff
     Quicksaves_Menu_Title=クイックセーブ

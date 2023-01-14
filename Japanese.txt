@@ -208,31 +208,31 @@
     Purchase_Thanks_Msg=ご購入ありがとうございます
     Purchase_Thanks_Msg=さぁ、星々を
 
-    Owned=%product% （所有）
+    Owned=%product%（所有）
 
     Restore_Open=購入を復元
 
 # Parts Expansion
-    PartsExpansion_Tanks=Large variety of fuel tanks!
-    PartsExpansion_Engines=Heavy lift engines!
-    PartsExpansion_Parts=Parts of all shapes and sizes!
+    PartsExpansion_Tanks=バリエーション豊かな燃料タンク！
+    PartsExpansion_Engines=重厚な大型エンジン！
+    PartsExpansion_Parts=あらゆる形状とサイズのパーツ！
 
-    PartsExpansion_Build=Large build space to bring
-    PartsExpansion_Build=your creations to life!
+    PartsExpansion_Build=より大きなビルドスペース
+    PartsExpansion_Build=あなたの作品に命を吹き込みます！
 
 # Skins Expansion
-    SkinsExpansion_Tanks=Paint your parts in a diverse variety of skins!
-    SkinsExpansion_Interstages=Color everything from interstages
-    SkinsExpansion_Nosecones=To nosecones
-    SkinsExpansion_Fairings=And even fairings
+    SkinsExpansion_Tanks=さまざまなスキンでパーツをペイント！
+    SkinsExpansion_Interstages=中間機体も全てペイント
+    SkinsExpansion_Nosecones=ノーズコーンや
+    SkinsExpansion_Fairings=フェアリングまでも
 
 # Planets Expansion
-    PlanetsExpansion_Jupiter=Explore Jupiter and its four moons!
-    PlanetsExpansion_Callisto=From the heavily cratered surface of Callisto!
-    PlanetsExpansion_Europa=To the vast ice flats of Europa!
+    PlanetsExpansion_Jupiter=木星とその４つの衛星を探検しましょう！
+    PlanetsExpansion_Callisto=クレーターに覆われたカリストの地表から！
+    PlanetsExpansion_Europa=エウロパの広大な氷原へ！
 
-    PlanetsExpansion_Conclusion=Distant worlds are waiting for you
-    PlanetsExpansion_Conclusion=to explore them!
+    PlanetsExpansion_Conclusion=遠い世界があなたを待っています
+    PlanetsExpansion_Conclusion=さぁ、探検しに行きましょう！
 
 [Sharing]
     Share_Button=Share Blueprint

@@ -235,34 +235,34 @@
     PlanetsExpansion_Conclusion=さぁ、探検しに行きましょう！
 
 [Sharing]
-    Share_Button=Share Blueprint
-    Upload_Blueprint_PC=Upload Blueprint
-    Download_Blueprint_PC=Download Blueprint
-    Share_Button_PC=Share
-    Download_Confirm=Download
-    URL_Field_TextBox=Blueprint URL
-    Empty_Upload=Cannot upload empty blueprint
-    Uploading_Message=Uploading...
-    Upload_Fail=Failed to upload blueprint
-    Copied_URL_To_Clipboard=Copied blueprint URL to clipboard
-    Sharing_Enter_Prompt=Select which world you want blueprint to be loaded into
-    Confirm_Download_Button=Download Blueprint
-    Downloading_Message=Downloading...
-    Download_Fail=Failed to download blueprint
-    URL_Invalid=Invalid Blueprint URL
-    Sharing_Connect_Fail=Could not connect to sharing servers
+    Share_Button=設計図を共有
+    Upload_Blueprint_PC=設計図をアップロード
+    Download_Blueprint_PC=設計図をダウンロード
+    Share_Button_PC=共有
+    Download_Confirm=ダウンロード
+    URL_Field_TextBox=設計図のURL
+    Empty_Upload=空の設計図はアップロードできません
+    Uploading_Message=アップロード中...
+    Upload_Fail=設計図のアップロードに失敗しました
+    Copied_URL_To_Clipboard=設計図のURLをクリップボードにコピーしました
+    Sharing_Enter_Prompt=設計図をロードするワールドを選択してください
+    Confirm_Download_Button=設計図をダウンロード
+    Downloading_Message=ダウンロード中...
+    Download_Fail=設計図のダウンロードに失敗しました
+    URL_Invalid=無効な設計図のURL
+    Sharing_Connect_Fail=共有サーバーに接続できませんでした
 
 [Settings Mobile]
-    Music_Name=Music
-    Sound_Name=Sound
-    Screen_Rotation_Name=Screen Rotation
+    Music_Name=音楽
+    Sound_Name=効果音
+    Screen_Rotation_Name=画面の回転
     FPS_Name=Fps
-    Language_Name=Language
-    Menu_Scale=Interface Scale
-    Menu_Opacity=Interface Opacity
-    Shakes_Name=Camera Shake
-    Orbit_Line_Count=Orbit Line Count
-    Anti_Aliasing=Anti-Aliasing
+    Language_Name=言語
+    Menu_Scale=画面サイズ
+    Menu_Opacity=画面の不透明度
+    Shakes_Name=カメラの揺れ
+    Orbit_Line_Count=軌道ライン数
+    Anti_Aliasing=アンチエイリアシング
 
 [Cheats]
     Infinite_Build_Area_Name=Infinite Build Area

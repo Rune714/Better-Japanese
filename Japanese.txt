@@ -12,8 +12,8 @@
 
     Build_Rocket=ロケットを作る
     Resume_Game=ゲームを再開
-    Return_To_Main_Menu=メインメニューに戻る
-    Exit_To_Main_Menu=メインメニューに戻る
+    Return_To_Main_Menu=メインメニュー
+    Exit_To_Main_Menu=メインメニュー
 
 [Main Menu]
     Play=プレイ
@@ -224,7 +224,7 @@
     SkinsExpansion_Tanks=さまざまなスキンでパーツをペイント！
     SkinsExpansion_Interstages=中間機体も全てペイント
     SkinsExpansion_Nosecones=ノーズコーンや
-    SkinsExpansion_Fairings=フェアリングまでも
+    SkinsExpansion_Fairings=フェアリングまでも！
 
 # Planets Expansion
     PlanetsExpansion_Jupiter=木星とその４つの衛星を探検しましょう！

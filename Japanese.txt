@@ -117,7 +117,7 @@
     World_Create_Title=ワールドの作成
     World_Name_Label=ワールド名:
     Solar_System_Label=太陽系:
-    Mode_Label=Mode:
+    Mode_Label=モード:
     Difficulty_Label=難易度:
 
     Difficulty_Scale_Stat=Scale: 1:%scale%

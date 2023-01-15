@@ -350,47 +350,47 @@
     RCS=RCS
 
 # Game supports screen rotation, we split into 2 lines in vertical mode
-    Height_Terrain_Vertical=Height (Terrain):
+    Height_Terrain_Vertical=高度（地形）:
     Height_Terrain_Vertical=
     Height_Terrain_Vertical=%height%
 
-    Height_Vertical=Height:
+    Height_Vertical=高度:
     Height_Vertical=
     Height_Vertical=%height%
 
-    Velocity_Vertical=Velocity:
+    Velocity_Vertical=速度:
     Velocity_Vertical=
     Velocity_Vertical=%speed%
 
-    Velocity_Relative_Vertical=Velocity (Relative):
+    Velocity_Relative_Vertical=速度（相対）:
     Velocity_Relative_Vertical=
     Velocity_Relative_Vertical=%speed%
 
-    Distance_Relative_Vertical=Distance (Relative):
+    Distance_Relative_Vertical=距離（相対）:
     Distance_Relative_Vertical=
     Distance_Relative_Vertical=%distance%
 
-    Angle_Vertical=Angle:
+    Angle_Vertical=角度:
     Angle_Vertical=
     Angle_Vertical=%angle% / %targetAngle%
 
-    Height_Terrain_Horizontal=Height (Terrain): %height%
-    Height_Horizontal=Height: %height%
-    Velocity_Horizontal=Velocity: %speed%
-    Velocity_Relative_Horizontal=Velocity (Relative): %speed%
-    Distance_Relative_Horizontal=Distance (Relative): %distance%
-    Angle_Horizontal=Angle: %angle% / %targetAngle%
+    Height_Terrain_Horizontal=高度（地形）: %height%
+    Height_Horizontal=高度: %height%
+    Velocity_Horizontal=速度: %speed%
+    Velocity_Relative_Horizontal=速度 (Relative): %speed%
+    Distance_Relative_Horizontal=距離 (Relative): %distance%
+    Angle_Horizontal=角度: %angle% / %targetAngle%
 
-    Relative_Velocity_Arrow=Relative Velocity
+    Relative_Velocity_Arrow=相対速度
     Relative_Velocity_Arrow=%velocity%
 
-    Side_Velocity_Arrow=Side Velocity
+    Side_Velocity_Arrow=横方向の速度
     Side_Velocity_Arrow=%velocity%
 
-    Forward_Velocity_Arrow=Distance
+    Forward_Velocity_Arrow=距離
     Forward_Velocity_Arrow=%distance%
     Forward_Velocity_Arrow=
-    Forward_Velocity_Arrow=Velocity
+    Forward_Velocity_Arrow=速度
     Forward_Velocity_Arrow=%velocity%
 
 [Failure menu]

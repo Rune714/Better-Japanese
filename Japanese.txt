@@ -296,45 +296,45 @@
     Achievements_Button=アチーブメント %complete%/%total%
 
 [Build]
-    Build_New_Rocket=Build New Rocket
-    New=New
+    Build_New_Rocket=新しいロケットを作る
+    New=新しい (2)
     Expand_Last_Rocket=Continue Build
 
-    Symmetry_On=Symmetry: On
-    Symmetry_Off=Symmetry: Off
+    Symmetry_On=左右対称： オン
+    Symmetry_Off=左右対称：オフ
 
-    Interior_View_On=Interior View: On
-    Interior_View_Off=Interior View: Off
+    Interior_View_On=内部表示：オン
+    Interior_View_Off=内部表示：オフ
 
-    Launch_Button=Launch
-    Move_Rocket_Button=Move Rocket
+    Launch_Button=発射
+    Move_Rocket_Button=ロケットを動かす
 
 # Clear build area
-    Clear_Warning=Clear build area?
-    Clear_Confirm=Clear
+    Clear_Warning=ビルドエリアをクリアしますか？
+    Clear_Confirm=クリア
 
 # Launch warnings
-    Warnings_Title=WARNING:
-    Missing_Capsule=Your rocket has no capsule, making it uncontrollable
-    Missing_Parachute=Your rocket has no parachute
-    Missing_Heat_Shield=Your rocket has no heat shield
+    Warnings_Title=警告：
+    Missing_Capsule=ロケットはカプセルがなく、制御不能です
+    Missing_Parachute=ロケットにパラシュートがありません
+    Missing_Heat_Shield=ロケットにヒートシールドがありません
 
-    Too_Heavy=Your rocket is too heavy to launch
+    Too_Heavy=重くて発射できません！
     Too_Heavy=%mass%
     Too_Heavy=%thrust%
 
-    Launch_Anyway_Button=Launch Anyway
+    Launch_Anyway_Button=無視して発射
 
-    Launch_Horizontally_Ask=Launch horizontally?
-    Launch_Horizontally_Confirm=Launch Horizontally
-    Launch_Vertically_Confirm=Launch Vertically
+    Launch_Horizontally_Ask=水平に発射しますか？
+    Launch_Horizontally_Confirm=水平に発射
+    Launch_Vertically_Confirm=垂直に発射
 
 # Example rockets
-    Example_Rockets_OpenMenu=Example Rockets
-    Basic_Rocket=Basic Rocket
-    Stages=Two Stage Rocket
-    Ideal_Stages=Three Stage Rocket
-    Lander=Moon Lander
+    Example_Rockets_OpenMenu=ロケットの例
+    Basic_Rocket=ベーシックロケット
+    Stages=2段式ロケット
+    Ideal_Stages=多段式ロケット
+    Lander=月面着陸ロケット
 
 [Map]
     Toggle_Map_Button=Map

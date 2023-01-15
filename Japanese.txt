@@ -478,7 +478,7 @@
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:
     Info_Resource_Amount=%resource{0}%: %amount%
-    Msg_No_Resource_Source=No %resource{1}% source
+    Msg_No_Resource_Source=%resource{1}%リソースがありません
     Msg_No_Resource_Left=Out of %resource{1}%
 
 [Part Categories]

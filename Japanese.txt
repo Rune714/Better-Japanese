@@ -482,16 +482,16 @@
     Msg_No_Resource_Left=%resource{1}%が空です
 
 [Part Categories]
-    Basic_Parts=Basics
-    Six_Wide_Parts=6 Wide
-    Eight_Wide_Parts=8 Wide
-    Ten_Wide_Parts=10 Wide
-    Twelve_Wide_Parts=12 Wide
-    Engine_Parts=Engines
-    Aerodynamics_Parts=Aerodynamics
-    Fairings_Parts=Fairings
-    Structural_Parts=Structural
-    Other_Parts=Other
+    Basic_Parts=基本
+    Six_Wide_Parts=６ ワイド
+    Eight_Wide_Parts=８ ワイド
+    Ten_Wide_Parts=１０ ワイド
+    Twelve_Wide_Parts=１２ ワイド
+    Engine_Parts=エンジン
+    Aerodynamics_Parts=エアロダイナミクス
+    Fairings_Parts=フェアリング
+    Structural_Parts=構造
+    Other_Parts=その他
 
 [Part Names]
     Capsule_Name{0}=Capsule

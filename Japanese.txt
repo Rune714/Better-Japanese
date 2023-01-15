@@ -278,7 +278,7 @@
 [Tutorials]
 
     Tut_Drag_And_Drop=パーツをドラッグ＆ドロップして
-    Tut_Drag_And_Drop=ロケットを組み立てます
+    Tut_Drag_And_Drop=ロケットを組み立てることができます
 
     Tut_Part_Info=クリックしてパーツの
     Tut_Part_Info=詳細情報を表示できます

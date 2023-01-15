@@ -404,42 +404,41 @@
     Destroy_Rocket=破壊する
     Debris_Recover=デブリを回収
     Debris_Destroy=デブリを破壊
-    Debris_Recover_Title=デブリを復旧しますか？
-    Debris_Destroy_Title=デブリを破壊しますか？
+    Debris_Recover_Title=デブリを回収しますか？
+    Debris_Destroy_Title=デブリを回収しますか？
     View_Mission_Log=飛行ログを表示
 
 # Restart menu
-    Restart_Mission_To_Launch_Warning=WARNING:
-    Restart_Mission_To_Launch_Warning=This will undo all progress since last launch
+    Restart_Mission_To_Launch_Warning=警告:
+    Restart_Mission_To_Launch_Warning=この操作を行うと、発射以降の進行状況が全て削除されます
 
-    Restart_Mission_To_Build_Warning=WARNING:
-    Restart_Mission_To_Build_Warning=This will undo all progress since last launch
+    Restart_Mission_To_Build_Warning=警告:
+    Restart_Mission_To_Build_Warning=この操作を行うと、発射以降の進行状況が全て削除されます
 
-    Restart_Mission_To_Launch=Revert To Launch
-    Restart_Mission_To_Build=Revert To Build
-    Revert_30_Secs=Revert 30 Sec
-    Revert_3_Min=Revert 3 Min
+    Restart_Mission_To_Launch=発射場に戻す
+    Restart_Mission_To_Build=設計図に戻す
+    Revert_30_Secs=30秒前に戻す
+    Revert_3_Min=3分前に戻す
 
 # End mission menu
-    End_Mission_Menu_Title=Mission Achievements:
-    End_Mission=End Mission
+    End_Mission_Menu_Title=ミッションの実績:
+    End_Mission=ミッション終了
 
 # Clear space junk/debris
-    Clear_Debris_Warning=Clear debris?
+    Clear_Debris_Warning=デブリをクリアしますか？
     Clear_Debris_Warning=
-    Clear_Debris_Warning=This will remove all uncontrollable rockets
+    Clear_Debris_Warning=制御不能のロケットは全て削除されます
+    Clear_Debris_Confirm=デブリをクリア
 
-    Clear_Debris_Confirm=Clear Debris
-
-    Navigate_To=Navigate To
-    End_Navigation=End Navigation
-    Focus=Focus
-    Unfocus=Unfocus
-    Switch_To=Switch To
+    Navigate_To=ナビゲーションを開始
+    End_Navigation=ナビゲーションを終了
+    Focus=フォーカス
+    Unfocus=アンフォーカス
+    Switch_To=操作を切り替え
 
 [Rocket]
-    Default_Rocket_Name=Rocket
-    No_Control_Msg=No control
+    Default_Rocket_Name=ロケット
+    No_Control_Msg=制御不能
 
 [Timewarp]
     Msg_Timewarp_Speed=Time acceleration %speed%x

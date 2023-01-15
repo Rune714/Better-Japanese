@@ -478,8 +478,8 @@
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:
     Info_Resource_Amount=%resource{0}%: %amount%
-    Msg_No_Resource_Source=%resource{1}%リソースがありません
-    Msg_No_Resource_Left=Out of %resource{1}%
+    Msg_No_Resource_Source=%resource{1}%が存在しません
+    Msg_No_Resource_Left=%resource{1}%が空です
 
 [Part Categories]
     Basic_Parts=Basics

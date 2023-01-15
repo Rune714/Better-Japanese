@@ -256,7 +256,7 @@
     Music_Name=音楽
     Sound_Name=効果音
     Screen_Rotation_Name=画面の回転
-    FPS_Name=Fps
+    FPS_Name=FPS
     Language_Name=言語
     Menu_Scale=画面サイズ
     Menu_Opacity=画面の不透明度
@@ -298,7 +298,7 @@
 [Build]
     Build_New_Rocket=新しいロケットを作る
     New=新しい (2)
-    Expand_Last_Rocket=Continue Build
+    Expand_Last_Rocket=続きから設計
 
     Symmetry_On=左右対称： オン
     Symmetry_Off=左右対称：オフ
@@ -337,16 +337,16 @@
     Lander=月面着陸ロケット
 
 [Map]
-    Toggle_Map_Button=Map
-    Escape=Escape
-    Encounter=Encounter
-    Rendezvous=Rendezvous
-    Transfer=Transfer Window
+    Toggle_Map_Button=地図
+    Escape=脱出
+    Encounter=遭遇
+    Rendezvous=合流
+    Transfer=転送ウィンドウ
 
 [Game]
-    Throttle_On=On
-    Throttle_Off=Off
-    Ignition=IGNITION
+    Throttle_On=オン
+    Throttle_Off=オフ
+    Ignition=点火
     RCS=RCS
 
 # Game supports screen rotation, we split into 2 lines in vertical mode

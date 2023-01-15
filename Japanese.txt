@@ -441,10 +441,10 @@
     No_Control_Msg=制御不能
 
 [Timewarp]
-    Msg_Timewarp_Speed=Time acceleration %speed%x
+    Msg_Timewarp_Speed=%speed%倍加速
 
-    Cannot_Timewarp_Below_Basic=Cannot timewarp below %height%
-    Cannot_Timewarp_Below=Cannot timewarp faster than %speed%x while below %height%
+    Cannot_Timewarp_Below_Basic=%height%以下ではタイムワープできません
+    Cannot_Timewarp_Below=%height%以下では%speed%より速いタイムワープはできません
     Cannot_Timewarp_While_Moving_On_Surface=Cannot timewarp faster than %speed%x while moving on the surface
     Cannot_Timewarp_While_Accelerating=Cannot timewarp faster than %speed%x while under acceleration
     Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while timewarping

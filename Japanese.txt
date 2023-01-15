@@ -288,12 +288,12 @@
     Tut_Throttle=スロットルを調整
 
 [Hub]
-    Funds_Text=Funds: %funds%
-    Go_To_Space_Center=Space Center
-    Exit_To_Space_Center=Exit To Space Center
-    Research_And_Development=Research & Development %complete%/%total%
-    Achievements_Title=Achievements:
-    Achievements_Button=Achievements %complete%/%total%
+    Funds_Text=資金: %funds%
+    Go_To_Space_Center=宇宙センター
+    Exit_To_Space_Center=宇宙センターに戻る
+    Research_And_Development=研究開発 %complete%/%total%
+    Achievements_Title=実績:
+    Achievements_Button=実績 %complete%/%total%
 
 [Build]
     Build_New_Rocket=Build New Rocket

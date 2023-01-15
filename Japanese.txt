@@ -297,8 +297,8 @@
 
 [Build]
     Build_New_Rocket=新しいロケットを作る
-    New=新しい (2)
-    Expand_Last_Rocket=続きから設計
+    New=新しく (1)
+    Expand_Last_Rocket=前回の続きから
 
     Symmetry_On=左右対称： オン
     Symmetry_Off=左右対称：オフ

@@ -101,7 +101,7 @@
 # World info
     Last_Played=最終プレイ: %value% 前
     Just_Played=最終プレイ: 少し前
-    Time_Played=Playtime: %value%
+    Time_Played=プレイ時間: %value%
 
     World_Difficulty_Name=難易度: %value%
     Difficulty_Normal=ノーマル

@@ -325,9 +325,9 @@
 
     Launch_Anyway_Button=無視して発射
 
-    Launch_Horizontally_Ask=水平に発射しますか？
-    Launch_Horizontally_Confirm=水平に発射
-    Launch_Vertically_Confirm=垂直に発射
+    Launch_Horizontally_Ask=水平に発射しますか？ (2)
+    Launch_Horizontally_Confirm=水平に発射 (3)
+    Launch_Vertically_Confirm=垂直に発射 (4)
 
 # Example rockets
     Example_Rockets_OpenMenu=ロケットの例
@@ -338,10 +338,10 @@
 
 [Map]
     Toggle_Map_Button=地図
-    Escape=脱出
-    Encounter=遭遇
-    Rendezvous=合流
-    Transfer=転送ウィンドウ
+    Escape=脱出 (5)
+    Encounter=遭遇 (6)
+    Rendezvous=合流 (7)
+    Transfer=転送ウィンドウ (8)
 
 [Game]
     Throttle_On=オン

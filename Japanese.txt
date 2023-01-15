@@ -277,15 +277,15 @@
 
 [Tutorials]
 
-    Tut_Drag_And_Drop=Drag and drop parts
-    Tut_Drag_And_Drop=to build your rocket
+    Tut_Drag_And_Drop=パーツをドラッグ＆ドロップして
+    Tut_Drag_And_Drop=ロケットを組み立てます
 
-    Tut_Part_Info=Click to view
-    Tut_Part_Info=part information
+    Tut_Part_Info=クリックしてパーツの
+    Tut_Part_Info=詳細情報を表示できます
 
-    Tut_Use_Part=Click on parts to use them
-    Tut_Ignition=Ignition!
-    Tut_Throttle=Adjust throttle
+    Tut_Use_Part=クリックしてパーツを使用
+    Tut_Ignition=点火！
+    Tut_Throttle=スロットルを調整
 
 [Hub]
     Funds_Text=Funds: %funds%

@@ -117,7 +117,7 @@
     World_Create_Title=ワールドの作成
     World_Name_Label=ワールド名:
     Solar_System_Label=太陽系:
-    Mode_Label=Mode:
+    Mode_Label=モード:
     Difficulty_Label=難易度:
 
     Difficulty_Scale_Stat=Scale: 1:%scale%
@@ -470,10 +470,10 @@
     Day_Short=%value%d
 
 [Resource Types]
-    Solid_Fuel{0}=Solid fuel
-    Solid_Fuel{1}=solid fuel
-    Liquid_Fuel{0}=Liquid fuel
-    Liquid_Fuel{1}=liquid fuel
+    Solid_Fuel{0}=固体燃料
+    Solid_Fuel{1}=固体燃料
+    Liquid_Fuel{0}=液体燃料
+    Liquid_Fuel{1}=液体燃料
 
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:

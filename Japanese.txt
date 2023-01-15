@@ -453,11 +453,11 @@
     Timewarp_To_Button=Timewarp Here
 
 [Units]
-    Thrust_To_Weight_Ratio=Thrust / Weight: %value%
-    Mass=Mass: %value%t
-    Thrust=Thrust: %value%t
-    Burn_Time=Burn Time: %value%s
-    Efficiency=Efficiency: %value% Isp
+    Thrust_To_Weight_Ratio=推力 / 重量: %value%
+    Mass=質量: %value%t
+    Thrust=重量: %value%t
+    Burn_Time=燃焼時間: %value%s
+    Efficiency=燃焼効率: %value% Isp
     Mass_Unit=t
     Meter_Unit=m
     Km_Unit=km

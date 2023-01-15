@@ -394,19 +394,19 @@
     Forward_Velocity_Arrow=%velocity%
 
 [Failure menu]
-    Failure_Cause=FAILURE CAUSE:
-    Failure_Crash_Into_Rocket=Crashed into another rocket
-    Failure_Crash_Into_Terrain=Crashed into the surface of %planet{1}%
-    Failure_Burn_Up=Burned up on reentry
+    Failure_Cause=失敗の原因:
+    Failure_Crash_Into_Rocket=別のロケットに衝突しました
+    Failure_Crash_Into_Terrain=%planet{1}%の表面に衝突しました
+    Failure_Burn_Up=ロケットは燃え尽きました
 
 [End mission menu]
-    Recover_Rocket=Recover
-    Destroy_Rocket=Destroy
-    Debris_Recover=Recover Debris
-    Debris_Destroy=Destroy Debris
-    Debris_Recover_Title=Recover debris?
-    Debris_Destroy_Title=Destroy debris?
-    View_Mission_Log=View Flight Log
+    Recover_Rocket=復旧する
+    Destroy_Rocket=破壊する
+    Debris_Recover=デブリを回収
+    Debris_Destroy=デブリを破壊
+    Debris_Recover_Title=デブリを復旧しますか？
+    Debris_Destroy_Title=デブリを破壊しますか？
+    View_Mission_Log=飛行ログを表示
 
 # Restart menu
     Restart_Mission_To_Launch_Warning=WARNING:

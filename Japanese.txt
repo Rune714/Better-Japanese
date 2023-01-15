@@ -494,12 +494,12 @@
     Other_Parts=その他
 
 [Part Names]
-    Capsule_Name{0}=Capsule
-    Capsule_Name{1}=capsule
-    Probe_Name{0}=Probe
-    Probe_Name{1}=probe
-    Parachute_Name{0}=Parachute
-    Parachute_Name{1}=parachute
+    Capsule_Name{0}=カプセル
+    Capsule_Name{1}=カプセル
+    Probe_Name{0}=プローブ
+    Probe_Name{1}=プローブ
+    Parachute_Name{0}=パラシュート
+    Parachute_Name{1}=パラシュート
 
     Kolibri_Engine_Name{0}=Kolibri Engine
     Kolibri_Engine_Name{1}=kolibri engine

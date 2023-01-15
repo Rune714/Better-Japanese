@@ -470,10 +470,10 @@
     Day_Short=%value%d
 
 [Resource Types]
-    Solid_Fuel{0}=Solid fuel
-    Solid_Fuel{1}=solid fuel
-    Liquid_Fuel{0}=Liquid fuel
-    Liquid_Fuel{1}=liquid fuel
+    Solid_Fuel{0}=固体燃料
+    Solid_Fuel{1}=固体燃料
+    Liquid_Fuel{0}=液体燃料
+    Liquid_Fuel{1}=液体燃料
 
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:

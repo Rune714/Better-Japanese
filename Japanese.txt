@@ -290,7 +290,7 @@
 [Hub]
     Funds_Text=資金: %funds%
     Go_To_Space_Center=宇宙センター
-    Exit_To_Space_Center=宇宙センターに戻る
+    Exit_To_Space_Center=宇宙センター
     Research_And_Development=研究開発 %complete%/%total%
     Achievements_Title=アチブーメント
     Achievements_Button=アチーブメント %complete%/%total%

@@ -619,29 +619,29 @@
     Msg_Parachute_Cut=パラシュート切断
 
 [Planets]
-    Sun{0}=Sun
-    Sun{1}=the Sun
-    Sun{2}=The Sun
-    Mercury{0}=Mercury
-    Venus{0}=Venus
-    Earth{0}=Earth
-    Earth{1}=the Earth
-    Earth{2}=The Earth
-    Earth{3}=Earth's
-    Moon{0}=Moon
-    Moon{1}=the Moon
-    Moon{2}=The Moon
-    Mars{0}=Mars
-    Phobos{0}=Phobos
-    Deimos{0}=Deimos
-    Jupiter{0}=Jupiter
-    Jupiter{1}=Jupiter
-    Jupiter{2}=Jupiter
-    Jupiter{3}=Jupiter's
-    Europa{0}=Europa
-    Ganymede{0}=Ganymede
-    Io{0}=Io
-    Callisto{0}=Callisto
+    Sun{0}=太陽
+    Sun{1}=太陽
+    Sun{2}=太陽
+    Mercury{0}=水星
+    Venus{0}=金星
+    Earth{0}=地球
+    Earth{1}=地球
+    Earth{2}=地球
+    Earth{3}=地球
+    Moon{0}=月
+    Moon{1}=月
+    Moon{2}=月
+    Mars{0}=火星
+    Phobos{0}=フォボス
+    Deimos{0}=ダイモス
+    Jupiter{0}=木星
+    Jupiter{1}=木星
+    Jupiter{2}=木星
+    Jupiter{3}=木星
+    Europa{0}=エウロパ
+    Ganymede{0}=ガニメデ
+    Io{0}=イオ
+    Callisto{0}=カリスト
 
 [Landmarks]
     Sea_of_Tranquility=Sea of Tranquility

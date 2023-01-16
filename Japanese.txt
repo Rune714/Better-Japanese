@@ -553,35 +553,35 @@
     Fuel_Pipe_Name{1}=燃料パイプ
 
 [Part Descriptions]
-    Capsule_Description=A small capsule, carrying one astronaut
-    Probe_Description=An unmanned probe, used for one way missions
-    Parachute_Description=A parachute used for landing
-    Fuel_Tank_Description=A fuel tank carrying liquid fuel and liquid oxygen
-    Separator_Description=Vertical separator, used to detach empty stages
-    Side_Separator_Description=Horizontal separator, used for detaching side boosters
-    Landing_Leg_Description=An extendable and retractable leg used for landing on the surface of moons and planets
-    Structural_Part_Description=A light and strong structural part
-    Hawk_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
-    Titan_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
-    Valiant_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
-    Frontier_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
-    Kolibri_Engine_Description=A tiny engine used for landers
-    Ion_Engine_Description=A low thrust engine with an incredibly high efficiency
-    RCS_Thruster_Description=A set of small directional thrusters, used for docking
+    Capsule_Description=宇宙飛行士を１人乗せられる小型カプセル
+    Probe_Description=片道ミッション用の無人プローブ
+    Parachute_Description=着陸用のパラシュート
+    Fuel_Tank_Description=液体燃料と液体酸素を搭載できる燃料タンク
+    Separator_Description=何もないステージを切り離すための縦型セパレーター
+    Side_Separator_Description=サイドブースターを切り離すための横型セパレーター
+    Landing_Leg_Description=衛星や惑星に降り立つための格納・展開可能な降着装置
+    Structural_Part_Description=軽量かつ頑丈な構造部品
+    Hawk_Engine_Description=主にロケットの第1ステージで用いられる高推力の低効率エンジン
+    Titan_Engine_Description=主にロケットの第1ステージで用いられる高推力の低効率エンジン
+    Valiant_Engine_Description=高効率、低推力。高推力が優先されない宇宙空間で用いられる
+    Frontier_Engine_Description=高効率、低推力。高推力が優先されない宇宙空間で用いられる
+    Kolibri_Engine_Description=着陸用の小型エンジン
+    Ion_Engine_Description=非常に高効率な低推力エンジン
+    RCS_Thruster_Description=ドッキング用の指向性小型スラスター
 
-    Booster_Description=Has high thrust, low efficiency
-    Booster_Description=Cannot be turned off or throttle once ignite
+    Booster_Description=高推力で低効率
+    Booster_Description=一度点火するとオフやスロットルの調整はできません
 
-    Aerodynamic_Nose_Cone_Description=An aerodynamic nose cone, used to improve the aerodynamics of side boosters
-    Aerodynamic_Fuselage_Description=An aerodynamic fuselage, used to cover engines
-    Fairing_Description=An aerodynamic fairing, used to encapsulate payloads
-    Battery_Description=A battery used to store electric power
-    Solar_Panel_Description=A solar panel that generates power when extended
-    RTG_Description=Radioisotope thermoelectric generator or RTG
-    Rover_Wheel_Description=Rover wheel used to drive on the surface of planets
-    Docking_Port_Description=A docking port which can be used to connect two vehicles together
-    Heat_Shield_Description=A heat resistant shield used to survive atmospheric reentry
-    Fuel_Pipe_Description=A pipe used to transfer fuel
+    Aerodynamic_Nose_Cone_Description=サイド ブースターの空気力学を改善するために使用される空気力学的なノーズコーン
+    Aerodynamic_Fuselage_Description=エンジンを覆うために使用される空力胴体
+    Fairing_Description=ペイロードをカプセル化するために使用される空力フェアリング
+    Battery_Description=電力を蓄えるためのバッテリー
+    Solar_Panel_Description=展開すると発電するソーラーパネル
+    RTG_Description=ラジオアイソトープ熱電発電機またはRTG
+    Rover_Wheel_Description=惑星の表面を走行するために使用されるローバーホイール
+    Docking_Port_Description=２台の車両を接続するために使用できるドッキングポート
+    Heat_Shield_Description=大気圏再突入を乗り切るために使用される耐熱シールド
+    Fuel_Pipe_Description=燃料の移送に使用されるパイプ
 
 [Modules]
     Torque_Module_Torque=Torque: %value%kN

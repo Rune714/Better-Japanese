@@ -428,6 +428,7 @@
     Clear_Debris_Warning=デブリをクリアしますか？
     Clear_Debris_Warning=
     Clear_Debris_Warning=制御不能のロケットは全て削除されます
+
     Clear_Debris_Confirm=デブリをクリア
 
     Navigate_To=ナビゲーションを開始

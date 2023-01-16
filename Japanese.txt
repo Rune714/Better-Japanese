@@ -584,26 +584,26 @@
     Fuel_Pipe_Description=燃料の移送に使用されるパイプ
 
 [Modules]
-    Torque_Module_Torque=Torque: %value%kN
-    Separation_Force=Separation force: %value%kN
+    Torque_Module_Torque=トルク: %value%kN
+    Separation_Force=離脱力: %value%kN
     Magnet_Force=Magnet force: %value%kN
 
-    Max_Heat_Tolerance=Heat tolerance: %temperature%
+    Max_Heat_Tolerance=耐熱性: %temperature%
 
-    State_On{0}=On
-    State_Off{0}=Off
+    State_On{0}=オン
+    State_Off{0}=オフ
 
-    Engine_Module_State=Engine %state{0}%
-    Engine_On_Label=Engine on
-    Gimbal_On_Label=Gimbal on
+    Engine_Module_State=エンジン%state{0}%
+    Engine_On_Label=エンジンオン
+    Gimbal_On_Label=ジンバルオン
 
     Msg_RCS_Module_State=RCS %state{0}%
 
-    Wheel_Module_State=Rover wheel %state{0}%
-    Wheel_On_Label=Wheel on
+    Wheel_Module_State=ローバーホイール%state{0}%
+    Wheel_On_Label=ホイールオン
 
-    Panel_Expanded=Expanded
-    Landing_Leg_Expanded=Deployed
+    Panel_Expanded=展開中 (9)
+    Landing_Leg_Expanded=展開済み (10)
 
     Detach_Edges_Label=Detach edges
     Adapt_To_Tanks_Label=Adapt to fuel tanks

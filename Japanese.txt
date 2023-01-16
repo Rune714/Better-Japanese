@@ -608,15 +608,15 @@
     Detach_Edges_Label=Detach edges
     Adapt_To_Tanks_Label=Adapt to fuel tanks
 
-    Info_Parachute_Max_Height=Max deploy height: %height%
-    Msg_Cannot_Deploy_Parachute_In_Vacuum=Cannot deploy parachute in a vacuum
-    Msg_Cannot_Deploy_Parachute_Above=Cannot deploy parachute above %height%
-    Msg_Cannot_Fully_Deploy_Above=Cannot fully deploy parachute above %height%
-    Msg_Cannot_Deploy_Parachute_While_Faster=Cannot deploy parachute when going faster than %velocity%
-    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Cannot deploy parachute while not moving
-    Msg_Parachute_Half_Deployed=Parachute half deployed
-    Msg_Parachute_Fully_Deployed=Parachute fully deployed
-    Msg_Parachute_Cut=Parachute cut
+    Info_Parachute_Max_Height=最高展開高度: %height%
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=真空状態でパラシュートを展開することはできません
+    Msg_Cannot_Deploy_Parachute_Above=%height%以上ではパラシュートを展開できません
+    Msg_Cannot_Fully_Deploy_Above=%height%ではパシュートを完全に展開できません
+    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity%以上の速度ではパラシュートを展開できません
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=移動していな時にパラシュートを展開できません
+    Msg_Parachute_Half_Deployed=パラシュート半展開中
+    Msg_Parachute_Fully_Deployed=パラシュート完全展開中
+    Msg_Parachute_Cut=パラシュート切断
 
 [Planets]
     Sun{0}=Sun

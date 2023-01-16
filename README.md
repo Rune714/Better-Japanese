@@ -29,7 +29,7 @@ Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Tra
 **上手く行かない時**  
 上手く行かない時はゲームを再起動又はファイルが正しい場所にあるか確認してください  
 
-**バグと変更点
+**バグと変更点**
 ---
 
 主に翻訳が適応されない場所と変更が必要な翻訳箇所の一覧です。  
@@ -37,6 +37,6 @@ Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Tra
 **翻訳の適応ができない**
 <details>
 <summary>Developerment Preview</summary>
-初期画面のボタンとその内容の翻訳が適応できない問題です。  
+初期画面のボタンとその内容の翻訳が適応できない問題です。<br>
 主な理由として翻訳を適応するための記述が存在しないからです。
 </details>

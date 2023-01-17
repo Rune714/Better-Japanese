@@ -606,8 +606,8 @@
     Panel_Expanded=展開中 (9)
     Landing_Leg_Expanded=展開済み (10)
 
-    Detach_Edges_Label=Detach edges
-    Adapt_To_Tanks_Label=Adapt to fuel tanks
+    Detach_Edges_Label=エッジを切り離す
+    Adapt_To_Tanks_Label=燃料タンクに接続
 
     Info_Parachute_Max_Height=最高展開高度: %height%
     Msg_Cannot_Deploy_Parachute_In_Vacuum=真空状態でパラシュートを展開することはできません

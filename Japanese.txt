@@ -645,26 +645,26 @@
     Callisto{0}=カリスト
 
 [Landmarks]
-    Sea_of_Tranquility=Sea of Tranquility
-    Sea_of_Serenity=Sea of Serenity
-    Ocean_of_Storms=Ocean of Storms
-    Copernicus_Crater=Copernicus Crater
-    Tycho_Crater=Tycho Crater
+    Sea_of_Tranquility=静かの海
+    Sea_of_Serenity=晴れの海
+    Ocean_of_Storms=嵐の大洋
+    Copernicus_Crater=コペルニクス
+    Tycho_Crater=ティコ
 
-    Olympus_Mons=Olympus Mons
-    Valles_Marineris=Valles Marineris
-    Gale_Crater=Gale Crater
-    Hellas_Planitia=Hellas Planitia
-    Arcadia_Planitia=Arcadia Planitia
-    Utopia_Planitia=Utopia Planitia
-    Jezero_Crater=Jezero Crater
+    Olympus_Mons=オリンポス山
+    Valles_Marineris=マリネリス峡谷
+    Gale_Crater=ゲール
+    Hellas_Planitia=ヘラス平原
+    Arcadia_Planitia=アルカディア平原
+    Utopia_Planitia=ユートピア平原
+    Jezero_Crater=ジェゼロ
 
-    Atalanta_Planitia=Atalanta Planitia
-    Lavinia_Planitia=Lavinia Planitia
+    Atalanta_Planitia=アタランテ平原
+    Lavinia_Planitia=ラウィー二ア平原
 
-    Caloris_Planitia=Caloris Planitia
-    Borealis_Planitia=Borealis Planitia
-    Maxwell_Montes=Maxwell Montes
+    Caloris_Planitia=カロリス盆地
+    Borealis_Planitia=ボレアリス盆地
+    Maxwell_Montes=マクスウェル山
 
 [Achievements]
     Reached_Height=Reached %height% altitude

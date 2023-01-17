@@ -29,14 +29,25 @@ Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Tra
 **上手く行かない時**  
 上手く行かない時はゲームを再起動又はファイルが正しい場所にあるか確認してください  
 
-**バグと変更点**
+**未翻訳の箇所**
 ---
+- Rate menu
+- Wordl Create Menu
+- Time Warp
+- Achievement
 
-主に翻訳が適応されない場所と変更が必要な翻訳箇所の一覧です。  
+**既知の問題**
+---
 
 **翻訳の適応ができない**
 <details>
 <summary>Developerment Preview</summary>
 初期画面のボタンとその内容の翻訳が適応できない問題です。<br>
-主な理由として翻訳を適応するための記述が存在しないからです。
+理由：翻訳を適応するための記述が存在しない
+</details>
+
+<details>
+<summary>PC Version</summary>
+初期画面のボタンと下部の説明を翻訳できない問題です。<br>
+理由：翻訳を適応するための記述が存在しない
 </details>

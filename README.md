@@ -34,7 +34,6 @@ Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Tra
 - Rate menu
 - Wordl Create Menu
 - Time Warp
-- Achievement
 
 **既知の問題**
 ---

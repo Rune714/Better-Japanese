@@ -667,40 +667,40 @@
     Maxwell_Montes=マクスウェル山
 
 [Achievements]
-    Reached_Height=Reached %height% altitude
-    Reached_Karman_Line=Passed the Karman line, leaving the atmosphere and reaching space
-    Survived_Reentry=Reentered %planet{3}% atmosphere, max temperature %temperature%
+    Reached_Height=高度%height%に到達
+    Reached_Karman_Line=カーマンラインを通過し、大気圏を離れて宇宙に到達しました
+    Survived_Reentry=%planet{3}%大気圏突入時の最高温度%temperature%
 
-    Reached_Low_Orbit=Reached low %planet{0}% orbit
-    Reached_High_Orbit=Reached high %planet{0}% orbit
-    Descend_Low_Orbit=Descended to low %planet{0}% orbit
-    Capture_Low_Orbit=Captured into low %planet{0}% orbit
-    Capture_High_Orbit=Captured into high %planet{0}% orbit
+    Reached_Low_Orbit=planet{0}%の低軌道に到達しました
+    Reached_High_Orbit=%planet{0}%の高軌道に到達しました
+    Descend_Low_Orbit=%planet{0}%の低軌道に降下しました
+    Capture_Low_Orbit=%planet{0}%の低軌道に捕捉されました
+    Capture_High_Orbit=%planet{0}%の高軌道に捕捉されました
 
-    Entered_Lower_Atmosphere=Entered %planet{3}% lower atmosphere
-    Entered_Upper_Atmosphere=Entered %planet{3}% upper atmosphere
-    Left_Lower_Atmosphere=Reached %planet{3}% upper atmosphere
-    Left_Upper_Atmosphere=Escaped %planet{3}% atmosphere
+    Entered_Lower_Atmosphere=%planet{3}%の下層大気に入りました
+    Entered_Upper_Atmosphere=%planet{3}%の上層大気に入りました
+    Left_Lower_Atmosphere=%planet{3}%の上層大気に到達
+    Left_Upper_Atmosphere=%planet{3}%の大気圏を脱出しました
 
-    Landed=Landed on the surface of %planet{1}%
+    Landed=%planet{1}%の地表に到達しました
 
-    Landed_At_Landmark=Landed on the surface of %planet{1}%
+    Landed_At_Landmark=%planet{1}%の地表に着陸しました
     Landed_At_Landmark=
-    Landed_At_Landmark=Location: %landmark%
+    Landed_At_Landmark=場所: %landmark%
 
-    Landed_At_Landmark__Short=Landed on the surface of %planet{1}%
-    Landed_At_Landmark__Short=Location: %landmark%
+    Landed_At_Landmark__Short= %planet{1}%の地表に着陸しました
+    Landed_At_Landmark__Short=場所: %landmark%
 
-    Crashed_Into_Terrain=Crashed into the surface of %planet{1}%
+    Crashed_Into_Terrain=%planet{1}%の地表に衝突しました
 
-    Entered_SOI=Entered the sphere of influence of %planet{1}%
-    Escaped_SOI=Escaped the sphere of influence of %planet{1}%
+    Entered_SOI=%planet{1}%の影響範囲に入りました
+    Escaped_SOI=%planet{1}%の影響範囲に入りました
 
-    Docked_Suborbital=Docked in a suborbital trajectory of %planet{1}%
-    Docked_Orbit_Low=Docked in low %planet{0}% orbit
-    Docked_Orbit_Transfer=Docked in a transfer orbit of %planet{1}%
-    Docked_Orbit_High=Docked in high %planet{0}% orbit
-    Docked_Escape=Docked on an escape trajectory of %planet{1}%
-    Docked_Surface=Docked on the surface of %planet{1}%
+    Docked_Suborbital=%planet{1}%の準軌道に乗りました
+    Docked_Orbit_Low=%planet{0}%の低軌道に乗りました
+    Docked_Orbit_Transfer=%planet{1}%の遷移軌道に乗りました
+    Docked_Orbit_High=%planet{0}%の高軌道に乗りました
+    Docked_Escape=%planet{1}%の脱出軌道に乗りました
+    Docked_Surface=%planet{1}%の表面に到達しました
 
-    Recover_Home=Safely returned to %planet{1}%
+    Recover_Home=%planet{1}%に無事帰還しました

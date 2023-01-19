@@ -446,12 +446,12 @@
 
     Cannot_Timewarp_Below_Basic=%height%以下ではタイムワープできません
     Cannot_Timewarp_Below=%height%以下では%speed%より速いタイムワープはできません
-    Cannot_Timewarp_While_Moving_On_Surface=Cannot timewarp faster than %speed%x while moving on the surface
-    Cannot_Timewarp_While_Accelerating=Cannot timewarp faster than %speed%x while under acceleration
-    Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while timewarping
-    Cannot_Turn_While_Timewarping=Cannot turn while timewarping
+    Cannot_Timewarp_While_Moving_On_Surface=軌道上を移動中には%speed%xより速いｔ
+    Cannot_Timewarp_While_Accelerating=加速度が%speed%xより速いタイムワープは実行できません
+    Cannot_Use_Part_While_Timewarping=タイムワープ中は%part{1}%を使用できません
+    Cannot_Turn_While_Timewarping=タイムワープ中は機体を回転できません
 
-    Timewarp_To_Button=Timewarp Here
+    Timewarp_To_Button=ここでタイムワープ
 
 [Units]
     Thrust_To_Weight_Ratio=推力 / 重量: %value%

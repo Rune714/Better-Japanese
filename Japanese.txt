@@ -108,7 +108,7 @@
     Difficulty_Hard=ハード
     Difficulty_Realistic=リアリスティック
 
-    World_Mode_Name=Mode: %value%
+    World_Mode_Name=モード: %value%
     Mode_Classic=クラシック
     Mode_Career=キャリア
     Mode_Sandbox=サンドボックス

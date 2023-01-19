@@ -31,8 +31,6 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 
 **未翻訳の箇所**
 ---
-- Rate menu
-- Wordl Create Menu
 - Time Warp
 
 **既知の問題**

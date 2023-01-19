@@ -69,13 +69,13 @@
     Update_Overview_Video_Confirm=開く
 
 # Rate menu
-    Rate_Title=Would you like to rate or review the game?
+    Rate_Title=良ければゲームの評価やレビューをしませんか？
     Rate_Title=
-    Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
+    Rate_Title=私たちはゲームのクオリティについて真剣に考えており、皆様のフィードバックを参考にゲームを改善します
     Rate_Title=
-    Rate_Title=Even after thousands of reviews, we still read a large number of them!
+    Rate_Title=レビューがどれだけたくさんあっても、読ませていただきます！
 
-    Rate_Confirm=Rate
+    Rate_Confirm=評価する
 
 # Close menu
     Exit_Button=戻る

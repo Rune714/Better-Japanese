@@ -203,7 +203,7 @@
     Time_Upgrade_Text=%product_name% -%sale_percent%にアップグレード
     Time_Upgrade_Text=%time_left%
 
-    Purchase_Thanks_Msg=Purchased: %product%
+    Purchase_Thanks_Msg=購入済み: %product%
     Purchase_Thanks_Msg=
     Purchase_Thanks_Msg=ご購入ありがとうございます
     Purchase_Thanks_Msg=さぁ、星々を探検しましょう！
@@ -314,7 +314,7 @@
     Clear_Confirm=クリア
 
 # Launch warnings
-    Warnings_Title=警告：
+    Warnings_Title=警告:
     Missing_Capsule=ロケットはカプセルがなく、制御不能です
     Missing_Parachute=ロケットにパラシュートがありません
     Missing_Heat_Shield=ロケットにヒートシールドがありません
@@ -446,7 +446,7 @@
 
     Cannot_Timewarp_Below_Basic=%height%以下ではタイムワープできません
     Cannot_Timewarp_Below=%height%以下では%speed%より速いタイムワープはできません
-    Cannot_Timewarp_While_Moving_On_Surface=軌道上を移動中には%speed%xより速いｔ
+    Cannot_Timewarp_While_Moving_On_Surface=軌道上を移動中には%speed%xより速い
     Cannot_Timewarp_While_Accelerating=加速度が%speed%xより速いタイムワープは実行できません
     Cannot_Use_Part_While_Timewarping=タイムワープ中は%part{1}%を使用できません
     Cannot_Turn_While_Timewarping=タイムワープ中は機体を回転できません

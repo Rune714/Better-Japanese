@@ -19,8 +19,8 @@ Spaceflight Simulatorの翻訳をより良くします。
 
 1. Githubからファイルをダウンロードしましょう
 2. ファイルマネージャーでダウンロードしたファイルを下記の場所に移動
-``` Js
-Android > date > Spaceflight Simulator > Spaceflight Simulator_Date > Custom Translate
+``` 
+Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom Translate
 ```
 3. Spaceflight Simulatorを起動しましょう
 4. 設定から[ 言語 ]を選択し、[ Japanese (Custom) ]を選択

@@ -29,9 +29,9 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 **上手く行かない時**  
 ゲームを再起動又はファイルが正しい場所にあるか確認してください  
 
-**未翻訳の箇所**
+**将来の更新**
 ---
-- Time Warp
+- より良い翻訳の提供
 
 **既知の問題**
 ---

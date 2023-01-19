@@ -120,10 +120,10 @@
     Mode_Label=モード:
     Difficulty_Label=難易度:
 
-    Difficulty_Scale_Stat=Scale: 1:%scale%
-    Difficulty_Isp_Stat=Specific Impulse: %value%x
-    Difficulty_Dry_Mass_Stat=Tank Dry Mass: %value%x
-    Difficulty_Engine_Mass_Stat=Engine Mass: %value%x
+    Difficulty_Scale_Stat=世界の大きさ: 1:%scale%
+    Difficulty_Isp_Stat=比推力: %value%x
+    Difficulty_Dry_Mass_Stat=タンクの空き質量: %value%x
+    Difficulty_Engine_Mass_Stat=エンジンの質量: %value%x
 
 [Saving]
 # Blueprint stuff

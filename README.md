@@ -23,11 +23,11 @@ Spaceflight Simulatorの翻訳をより良くします。
 Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom Translate
 ```
 3. Spaceflight Simulatorを起動しましょう
-4. 設定から[ 言語 ]を選択し、[ Japanese (Custom) ]を選択
+4. 設定から【 言語 】を選択し、【 Japanese (Custom) 】を選択
 5. ゲームを再起動して適応できていたらOK
 
 **上手く行かない時**  
-上手く行かない時はゲームを再起動又はファイルが正しい場所にあるか確認してください  
+ゲームを再起動又はファイルが正しい場所にあるか確認してください  
 
 **未翻訳の箇所**
 ---
@@ -38,7 +38,7 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 **既知の問題**
 ---
 
-**翻訳の適応ができない**
+**翻訳非対応**
 <details>
 <summary>Developerment Preview</summary>
 初期画面のボタンとその内容の翻訳が適応できない問題です。<br>

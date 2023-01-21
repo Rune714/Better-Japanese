@@ -649,15 +649,15 @@
     Sea_of_Serenity=晴れの海
     Ocean_of_Storms=嵐の大洋
     Copernicus_Crater=コペルニクス
-    Tycho_Crater=ティコ
+    Tycho_Crater=ティコ クレーター
 
     Olympus_Mons=オリンポス山
     Valles_Marineris=マリネリス峡谷
-    Gale_Crater=ゲール
+    Gale_Crater=ゲール クレーター
     Hellas_Planitia=ヘラス平原
     Arcadia_Planitia=アルカディア平原
     Utopia_Planitia=ユートピア平原
-    Jezero_Crater=ジェゼロ
+    Jezero_Crater=ジェゼロ クレーター
 
     Atalanta_Planitia=アタランテ平原
     Lavinia_Planitia=ラウィー二ア平原

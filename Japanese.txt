@@ -53,10 +53,10 @@
     Credits_Text=<Size=55> プログラマー </size>
     Credits_Text=
     Credits_Text=Davi Vasc
-    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=<Size=55> コンポーザー </size>
     Credits_Text=
     Credits_Text=Ashton Mills
-    Credits_Text=<size=55> プログラマー </size>
+    Credits_Text=<size=55> コンポーザー </size>
 
 # Update menu
     Update_Available=新しいアップデートが利用可能です！

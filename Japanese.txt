@@ -249,7 +249,7 @@
     Confirm_Download_Button=設計図をダウンロード
     Downloading_Message=ダウンロード中...
     Download_Fail=設計図のダウンロードに失敗しました
-    URL_Invalid=無効な設計図のURL
+    URL_Invalid=設計図のURLが無効です
     Sharing_Connect_Fail=共有サーバーに接続できませんでした
 
 [Settings Mobile]

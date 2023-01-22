@@ -48,3 +48,14 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 初期画面のボタンと下部の説明を翻訳できない問題です。<br>
 理由：翻訳を適応するための記述が存在しない
 </details>
+
+<details>
+<summary>研究開発</summary>
+研究開発の内容が翻訳できない問題です。<br>
+理由：翻訳を適応するための記述が存在しない
+</details>
+
+**その他の問題**  
+変更すべき問題が70以上あります  
+検証すべき箇所を含めると100以上ある可能性があります  
+翻訳を適応できていない問題は上記のみです  

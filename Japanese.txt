@@ -400,7 +400,7 @@
     Failure_Burn_Up=ロケットは燃え尽きました
 
 [End mission menu]
-    Recover_Rocket=復旧する
+    Recover_Rocket=回収する
     Destroy_Rocket=破壊する
     Debris_Recover=デブリを回収
     Debris_Destroy=デブリを破壊
@@ -445,13 +445,13 @@
     Msg_Timewarp_Speed=%speed%倍加速
 
     Cannot_Timewarp_Below_Basic=%height%以下ではタイムワープできません
-    Cannot_Timewarp_Below=%height%以下では%speed%より速いタイムワープはできません
-    Cannot_Timewarp_While_Moving_On_Surface=軌道上を移動中には%speed%xより速い
-    Cannot_Timewarp_While_Accelerating=加速度が%speed%xより速いタイムワープは実行できません
+    Cannot_Timewarp_Below=%height%以下では%speed%倍より速いタイムワープはできません
+    Cannot_Timewarp_While_Moving_On_Surface=軌道上を移動中には%speed%倍より速い
+    Cannot_Timewarp_While_Accelerating=加速度が%speed%倍より速いタイムワープは実行できません
     Cannot_Use_Part_While_Timewarping=タイムワープ中は%part{1}%を使用できません
     Cannot_Turn_While_Timewarping=タイムワープ中は機体を回転できません
 
-    Timewarp_To_Button=ここでタイムワープ
+    Timewarp_To_Button=ここまでタイムワープ
 
 [Units]
     Thrust_To_Weight_Ratio=推力 / 重量: %value%
@@ -614,7 +614,7 @@
     Msg_Cannot_Deploy_Parachute_Above=%height%以上ではパラシュートを展開できません
     Msg_Cannot_Fully_Deploy_Above=%height%ではパシュートを完全に展開できません
     Msg_Cannot_Deploy_Parachute_While_Faster=%velocity%以上の速度ではパラシュートを展開できません
-    Msg_Cannot_Deploy_Parachute_While_Not_Moving=移動していな時にパラシュートを展開できません
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=移動していな時はパラシュートを展開できません
     Msg_Parachute_Half_Deployed=パラシュート半展開中
     Msg_Parachute_Fully_Deployed=パラシュート完全展開中
     Msg_Parachute_Cut=パラシュート切断
@@ -648,7 +648,7 @@
     Sea_of_Tranquility=静かの海
     Sea_of_Serenity=晴れの海
     Ocean_of_Storms=嵐の大洋
-    Copernicus_Crater=コペルニクス
+    Copernicus_Crater=コペルニクス クレーター
     Tycho_Crater=ティコ クレーター
 
     Olympus_Mons=オリンポス山
@@ -671,7 +671,7 @@
     Reached_Karman_Line=カーマンラインを通過し、大気圏を離れて宇宙に到達しました
     Survived_Reentry=%planet{3}%の大気圏突入時の最高温度%temperature%
 
-    Reached_Low_Orbit=planet{0}%の低軌道に到達しました
+    Reached_Low_Orbit=%planet{0}%の低軌道に到達しました
     Reached_High_Orbit=%planet{0}%の高軌道に到達しました
     Descend_Low_Orbit=%planet{0}%の低軌道に降下しました
     Capture_Low_Orbit=%planet{0}%の低軌道に捕捉されました

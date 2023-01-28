@@ -668,7 +668,7 @@
 
 [Achievements]
     Reached_Height=高度%height%に到達
-    Reached_Karman_Line=カーマンラインを通過し、大気圏を離れて宇宙に到達しました
+    Reached_Karman_Line=カーマンラインを通過し、宇宙に到達しました
     Survived_Reentry=%planet{3}%の大気圏突入時の最高温度%temperature%
 
     Reached_Low_Orbit=%planet{0}%の低軌道に到達しました

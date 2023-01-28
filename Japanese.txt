@@ -587,7 +587,7 @@
 [Modules]
     Torque_Module_Torque=トルク: %value%kN
     Separation_Force=離脱力: %value%kN
-    Magnet_Force=Magnet force: %value%kN
+    Magnet_Force=磁力: %value%kN
 
     Max_Heat_Tolerance=耐熱性: %temperature%
 

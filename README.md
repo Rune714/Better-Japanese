@@ -3,7 +3,8 @@ Spaceflight Simulatorの翻訳をより良くします。
 スマホ版で動作します。 **※PC版 （Steam）では動作しません。**
 
 現在のSpaceflight Simulatorの翻訳は1.5.3までしか対応していませんが  
-この翻訳パックでは1.5.9.7（最新版）に翻訳を対応させます。
+この翻訳パックでは1.5.9.7に翻訳を対応させます。
+最新バージョンである1.5.10.2ではエラーが出てしまいますが、使用はできます。
 
 **※一部翻訳非対応の箇所があります**
 
@@ -32,6 +33,7 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 **将来の更新**
 ---
 - より良い翻訳の提供
+- 1.5.10.2への対応
 
 **既知の問題**
 ---
@@ -54,6 +56,9 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 研究開発の内容が翻訳できない問題です。<br>
 理由：翻訳を適応するための記述が存在しない
 </details>
+
+ロードマップと作業状況
+https://foregoing-tablecloth-765.notion.site/a4709f63889642d090ba93305c96a83e?v=dc86343531b0476ea4ee4a1a13e3660f&pvs=4
 
 **その他の問題**  
 変更すべき問題が70以上あります  

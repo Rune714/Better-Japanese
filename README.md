@@ -10,7 +10,7 @@ Spaceflight Simulatorの翻訳をより良くします。
 **※一部翻訳非対応の箇所があります**
 
 > **ロードマップ＆作業状況**  
-> https://foregoing-tablecloth-765.notion.site/a4709f63889642d090ba93305c96a83e?v=dc86343531b0476ea4ee4a1a13e3660f&pvs=4
+> https://x.gd/notion_roadmap (Notion）
 
 **導入方法**
 ---

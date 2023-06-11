@@ -9,6 +9,9 @@ Spaceflight Simulatorの翻訳をより良くします。
 
 **※一部翻訳非対応の箇所があります**
 
+> **ロードマップ＆作業状況**
+> https://foregoing-tablecloth-765.notion.site/a4709f63889642d090ba93305c96a83e?v=dc86343531b0476ea4ee4a1a13e3660f&pvs=4
+
 **導入方法**
 ---
 
@@ -21,8 +24,13 @@ Spaceflight Simulatorの翻訳をより良くします。
 
 1. Githubからファイルをダウンロードしましょう
 2. ファイルマネージャーでダウンロードしたファイルを下記の場所に移動
+**Android版**
 ``` 
 Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom Translate
+```
+**ios版**
+```
+このiPhone内 → Spaceflight Simulator → Custom Translations
 ```
 3. Spaceflight Simulatorを起動しましょう
 4. 設定から【 言語 】を選択し、【 Japanese (Custom) 】を選択
@@ -57,9 +65,6 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 研究開発の内容が翻訳できない問題です。<br>
 理由：翻訳を適応するための記述が存在しない
 </details>
-
-ロードマップと作業状況
-https://foregoing-tablecloth-765.notion.site/a4709f63889642d090ba93305c96a83e?v=dc86343531b0476ea4ee4a1a13e3660f&pvs=4
 
 **その他の問題**  
 変更すべき問題が70以上あります  

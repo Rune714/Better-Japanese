@@ -23,7 +23,7 @@ Spaceflight Simulatorの翻訳をより良くします。
 **導入手順**
 
 1. Githubからファイルをダウンロードしましょう
-2. ファイルマネージャーでダウンロードしたファイルを下記の場所に移動
+2. ファイルマネージャーでダウンロードしたファイルを下記の場所に移動  
 **Android版**
 ``` 
 Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom Translate

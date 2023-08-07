@@ -150,7 +150,7 @@
     Import=インポート
     Delete=削除
     Rename=名前の変更
-    Delete_File_With_Type=%filetype{1}% %filename%を削除しますか？
+    Delete_File_With_Type=%filetype{1}% "%filename%"を削除しますか
 
 # In progress
     Saving_In_Progress=保存中...

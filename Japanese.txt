@@ -323,7 +323,7 @@
 
 # Launch warnings
     Warnings_Title=警告:
-    Missing_Capsule=ロケットにカプセルがなく、制御不能です
+    Missing_Capsule=ロケットにはカプセルがなく、制御不能です
     Missing_Parachute=ロケットにはパラシュートがありません
     Missing_Heat_Shield=ロケットにはヒートシールドがありません
     Missing_Fuel_Popup=ロケットには燃料がありません

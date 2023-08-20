@@ -1,6 +1,6 @@
 # Japanese.txt
 Spaceflight Simulatorの翻訳をより良くします。  
-スマホ版で動作します。
+スマホ版で動作します。  
 **※PC版 （Steam）は非対応です。**
 
 現在のSpaceflight Simulatorの翻訳は**1.5.3**までの範囲しか対応していませんが  
@@ -33,7 +33,7 @@ Android → date → com.StefMorojna.SpaceflightSimulator → files → Custom T
 ```
 3. Spaceflight Simulatorを起動しましょう
 4. 設定から【 言語 】を選択し、【 Japanese (Custom) 】を選択
-5. ゲームを再起動して適応できていたらOK
+5. ゲームを再起動して適応できていたらOK  
 **！設定から言語を一度"英語"にしてから"Japanese"にすることでもできます。**
 
 **上手く行かない時**  

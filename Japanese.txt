@@ -261,7 +261,7 @@
     Music_Name=音楽
     Sound_Name=効果音
     Screen_Rotation_Name=画面の回転
-    FPS_Name=Fps
+    FPS_Name=FPS
     Language_Name=言語
     Menu_Scale=UIのサイズ
     Menu_Opacity=UIの不透明度

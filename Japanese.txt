@@ -92,12 +92,12 @@
 # Create menu
     Create_World_Title=ワールド名
     Default_World_Name=マイワールド
-    Select_Solar_System=惑星系を選択
+    Select_Solar_System=星系を選択
 
-    Select_Solar_System__NotFound=惑星系が見つかりませんでした:
+    Select_Solar_System__NotFound=星系が見つかりませんでした:
     Select_Solar_System__NotFound=%system%
     Select_Solar_System__NotFound=
-    Select_Solar_System__NotFound=惑星系を選択してください
+    Select_Solar_System__NotFound=星系を選択してください
 
     Default_Solar_System=太陽系（デフォルト）
     Custom_Solar_System=%name%（カスタム）
